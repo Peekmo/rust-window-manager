@@ -1,0 +1,9 @@
+[package]
+
+name = "moonwm"
+version = "0.0.1"
+authors = ["Peekmo <axel.anceau@gmail.com>"]
+
+[dependencies.xlib]
+
+git = "https://github.com/servo/rust-xlib.git"

@@ -1,0 +1,12 @@
+[root]
+name = "moonwm"
+version = "0.0.1"
+dependencies = [
+ "xlib 0.1.0 (git+https://github.com/servo/rust-xlib.git)",
+]
+
+[[package]]
+name = "xlib"
+version = "0.1.0"
+source = "git+https://github.com/servo/rust-xlib.git#138b0e281b9fd64f7d2e17080fa9a2d4a8554313"
+
